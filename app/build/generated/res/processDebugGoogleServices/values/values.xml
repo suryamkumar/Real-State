@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1062388137746</string>
+    <string name="google_api_key" translatable="false">AIzaSyCChl6juzAVyrjcSkUfg5yL-sCbjA1FUwE</string>
+    <string name="google_app_id" translatable="false">1:1062388137746:android:c7d0d4acefaa0070397dcb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCChl6juzAVyrjcSkUfg5yL-sCbjA1FUwE</string>
+    <string name="google_storage_bucket" translatable="false">real-estate-app-56810.appspot.com</string>
+    <string name="project_id" translatable="false">real-estate-app-56810</string>
+</resources>

@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_room1.jpg.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/room1.jpg"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_button_bg_signout.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/button_bg_signout.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_back_button.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/back_button.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_content_settings.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/content_settings.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_delete_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_side_curve_image.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/side_curve_image.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_search_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_activity_notification.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_ic_home.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_search_layout.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/search_layout.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_property_item1.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/property_item1.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_sell_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_sell_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_ic_favourite.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/ic_favourite.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_fragment_first2.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/fragment_first2.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_place_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_place_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_activity_helps.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/activity_helps.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_back.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/back.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_edit_bg.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/edit_bg.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_activity_forgot_password.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_activity_main.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_notifications_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_notifications_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_activity_details.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_layout_bg.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/layout_bg.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_addproperty.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/addproperty.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_fragment_chats.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/fragment_chats.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_location_pin_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_location_pin_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_button_bg_property.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/button_bg_property.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_hom1.jpeg.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/hom1.jpeg"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_card_background.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_input_background.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/input_background.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_top_deals.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/top_deals.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_fragment_fav.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/fragment_fav.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_homelogo.png.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/homelogo.png"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_house_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_house_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_add.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/add.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_like.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/like.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_rounded_button_bg.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/rounded_button_bg.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_favorite_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_ic_price.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/ic_price.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_fav_deals.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/fav_deals.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_add_property_listing.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/add_property_listing.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_fragment_home.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_imageview.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/imageview.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_item_property.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/item_property.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/navigation_nav_graph2.xml.flat",
+        "source": "com.example.realestateapp-main-7:/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_fragment_second2.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/fragment_second2.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/menu_bottom_menu.xml.flat",
+        "source": "com.example.realestateapp-main-7:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_send_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_send_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_chat_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_chat_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_free.png.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/free.png"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_top_deals2.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/top_deals2.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_contact_support_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_contact_support_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_card_bg.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_activity_home.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_activity_login.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_favsell.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/favsell.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_activity_splash.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_fragment_listing.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/fragment_listing.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_flat1.jpeg.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/flat1.jpeg"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.realestateapp-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.realestateapp-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_rounded_edit_bg.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/rounded_edit_bg.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_border_buttom.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/border_buttom.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_bottom_bg.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/bottom_bg.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_like_full.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/like_full.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_button_bg.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_buy_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_buy_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.realestateapp-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/navigation_nav_graph.xml.flat",
+        "source": "com.example.realestateapp-main-7:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_activity_settings.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_property_item2.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/property_item2.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_fragment_second.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_baseline_arrow_back_profile_24.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/baseline_arrow_back_profile_24.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/raw_homeanim.json.flat",
+        "source": "com.example.realestateapp-main-7:/raw/homeanim.json"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_bg_search.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_fragment_account.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/drawable_ic_account.xml.flat",
+        "source": "com.example.realestateapp-main-7:/drawable/ic_account.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_content_helps.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/content_helps.xml"
+    },
+    {
+        "merged": "com.example.realestateapp-debug-5:/layout_fragment_first.xml.flat",
+        "source": "com.example.realestateapp-main-7:/layout/fragment_first.xml"
+    }
+]

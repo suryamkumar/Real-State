@@ -1,0 +1,10 @@
+#Sun Dec 01 19:33:28 IST 2024
+base.0=A\:\\All Data\\Real State Booking Application\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=A\:\\All Data\\Real State Booking Application\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=A\:\\All Data\\Real State Booking Application\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\8\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

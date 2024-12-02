@@ -1,0 +1,59 @@
+com.example.realestateapp-pngs-0 A:\All Data\Real State Booking Application\app\build\generated\res\pngs\debug
+com.example.realestateapp-res-1 A:\All Data\Real State Booking Application\app\build\generated\res\processDebugGoogleServices
+com.example.realestateapp-resValues-2 A:\All Data\Real State Booking Application\app\build\generated\res\resValues\debug
+com.example.realestateapp-packageDebugResources-3 A:\All Data\Real State Booking Application\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.realestateapp-packageDebugResources-4 A:\All Data\Real State Booking Application\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.realestateapp-debug-5 A:\All Data\Real State Booking Application\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.realestateapp-debug-6 A:\All Data\Real State Booking Application\app\src\debug\res
+com.example.realestateapp-main-7 A:\All Data\Real State Booking Application\app\src\main\res
+com.example.realestateapp-fragment-ktx-1.6.2-8 C:\Users\surya\.gradle\caches\8.9\transforms\001e1d834d9d77f81814b78c53491d9c\transformed\fragment-ktx-1.6.2\res
+com.example.realestateapp-firebase-common-21.0.0-9 C:\Users\surya\.gradle\caches\8.9\transforms\09ce75009696d19dd611d58857f08708\transformed\firebase-common-21.0.0\res
+com.example.realestateapp-lifecycle-viewmodel-savedstate-2.6.2-10 C:\Users\surya\.gradle\caches\8.9\transforms\1a05006b781ea66ce87d4315d7394478\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.realestateapp-lifecycle-runtime-2.6.2-11 C:\Users\surya\.gradle\caches\8.9\transforms\1bd804f41aecb71ad3602583c651cf3f\transformed\lifecycle-runtime-2.6.2\res
+com.example.realestateapp-constraintlayout-2.2.0-12 C:\Users\surya\.gradle\caches\8.9\transforms\1cd54467e75bc9d7c21a7e5d29ffdc6f\transformed\constraintlayout-2.2.0\res
+com.example.realestateapp-lifecycle-viewmodel-ktx-2.6.2-13 C:\Users\surya\.gradle\caches\8.9\transforms\1e719744ebb6c6d8e90ed9b6ed8716f3\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.realestateapp-lifecycle-process-2.6.2-14 C:\Users\surya\.gradle\caches\8.9\transforms\20bf741b03dd4c795b82149f7430e14c\transformed\lifecycle-process-2.6.2\res
+com.example.realestateapp-play-services-base-18.1.0-15 C:\Users\surya\.gradle\caches\8.9\transforms\285d8de8839853f1ecb51d3ff0f1c8fc\transformed\play-services-base-18.1.0\res
+com.example.realestateapp-credentials-1.2.0-rc01-16 C:\Users\surya\.gradle\caches\8.9\transforms\28de56358269cfe404d46d0b66767572\transformed\credentials-1.2.0-rc01\res
+com.example.realestateapp-tracing-1.2.0-17 C:\Users\surya\.gradle\caches\8.9\transforms\3920f4d0d791c50bd6cc6ec43cfa988d\transformed\tracing-1.2.0\res
+com.example.realestateapp-window-1.0.0-18 C:\Users\surya\.gradle\caches\8.9\transforms\3d0b85d6383d64cfb2cadee7f1e45b38\transformed\window-1.0.0\res
+com.example.realestateapp-play-services-basement-18.4.0-19 C:\Users\surya\.gradle\caches\8.9\transforms\3f8550ee99b430541600b95e2eeb1d96\transformed\play-services-basement-18.4.0\res
+com.example.realestateapp-glide-4.12.0-20 C:\Users\surya\.gradle\caches\8.9\transforms\4281eb83bc102c5460c1149a69fd91ee\transformed\glide-4.12.0\res
+com.example.realestateapp-activity-ktx-1.9.3-21 C:\Users\surya\.gradle\caches\8.9\transforms\4ddbcd81b7c23fd9d6cbfe8c4907071b\transformed\activity-ktx-1.9.3\res
+com.example.realestateapp-circleimageview-3.1.0-22 C:\Users\surya\.gradle\caches\8.9\transforms\56a78d75d197c49bca84aa90420273c9\transformed\circleimageview-3.1.0\res
+com.example.realestateapp-activity-1.9.3-23 C:\Users\surya\.gradle\caches\8.9\transforms\5896343ed27e68016986f1ccc65a8af8\transformed\activity-1.9.3\res
+com.example.realestateapp-savedstate-ktx-1.2.1-24 C:\Users\surya\.gradle\caches\8.9\transforms\590edc2801bd78c8791183272497623f\transformed\savedstate-ktx-1.2.1\res
+com.example.realestateapp-transition-1.5.0-25 C:\Users\surya\.gradle\caches\8.9\transforms\5beaf6f3e83d5785b3267a88a567fc45\transformed\transition-1.5.0\res
+com.example.realestateapp-profileinstaller-1.4.0-26 C:\Users\surya\.gradle\caches\8.9\transforms\616fccbf741daa7b7412f3053cb2b3be\transformed\profileinstaller-1.4.0\res
+com.example.realestateapp-startup-runtime-1.1.1-27 C:\Users\surya\.gradle\caches\8.9\transforms\72b024506a555849767128972bfc872e\transformed\startup-runtime-1.1.1\res
+com.example.realestateapp-drawerlayout-1.1.1-28 C:\Users\surya\.gradle\caches\8.9\transforms\75b2d06b574eb0f74bb8a5c8e849f218\transformed\drawerlayout-1.1.1\res
+com.example.realestateapp-core-1.15.0-29 C:\Users\surya\.gradle\caches\8.9\transforms\7b4deb3d7f31dd28a0e07b20f642a1cc\transformed\core-1.15.0\res
+com.example.realestateapp-appcompat-resources-1.7.0-30 C:\Users\surya\.gradle\caches\8.9\transforms\809e40d431cea40783adea18c2a4ca63\transformed\appcompat-resources-1.7.0\res
+com.example.realestateapp-lifecycle-livedata-core-2.6.2-31 C:\Users\surya\.gradle\caches\8.9\transforms\839826dbca1abf2a8b605afd9e9a3aa3\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.realestateapp-navigation-runtime-2.8.3-32 C:\Users\surya\.gradle\caches\8.9\transforms\8c95a1f920739cbccd19273660e11e2c\transformed\navigation-runtime-2.8.3\res
+com.example.realestateapp-cardview-1.0.0-33 C:\Users\surya\.gradle\caches\8.9\transforms\90cfd4951ca68b87135e640a2baa76ee\transformed\cardview-1.0.0\res
+com.example.realestateapp-lottie-3.4.0-34 C:\Users\surya\.gradle\caches\8.9\transforms\94dd0437efd2210a62fb89e347d967a3\transformed\lottie-3.4.0\res
+com.example.realestateapp-emoji2-views-helper-1.3.0-35 C:\Users\surya\.gradle\caches\8.9\transforms\9cc1580b35a9965ade996ed1ae3a6e77\transformed\emoji2-views-helper-1.3.0\res
+com.example.realestateapp-savedstate-1.2.1-36 C:\Users\surya\.gradle\caches\8.9\transforms\9e651c5b223dffffae7163243d61ae05\transformed\savedstate-1.2.1\res
+com.example.realestateapp-recyclerview-1.1.0-37 C:\Users\surya\.gradle\caches\8.9\transforms\9ebd9b60aa68a64914388be5098d11cb\transformed\recyclerview-1.1.0\res
+com.example.realestateapp-lifecycle-viewmodel-2.6.2-38 C:\Users\surya\.gradle\caches\8.9\transforms\a39ab51514bc1224111910416db9c2e4\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.realestateapp-appcompat-1.7.0-39 C:\Users\surya\.gradle\caches\8.9\transforms\ad2e1277c2bb11e3099cf29aab2bae02\transformed\appcompat-1.7.0\res
+com.example.realestateapp-material-1.12.0-40 C:\Users\surya\.gradle\caches\8.9\transforms\afd3240baa458be9e41226a24d938a6f\transformed\material-1.12.0\res
+com.example.realestateapp-coordinatorlayout-1.1.0-41 C:\Users\surya\.gradle\caches\8.9\transforms\b6f277b7a4a61306b6882da2ab6d82aa\transformed\coordinatorlayout-1.1.0\res
+com.example.realestateapp-navigation-common-2.8.3-42 C:\Users\surya\.gradle\caches\8.9\transforms\bc4bd1783cf5d6596e00841d710c9477\transformed\navigation-common-2.8.3\res
+com.example.realestateapp-navigation-fragment-2.8.3-43 C:\Users\surya\.gradle\caches\8.9\transforms\bf2549bfd5295c21f485f46b8b9da437\transformed\navigation-fragment-2.8.3\res
+com.example.realestateapp-core-runtime-2.2.0-44 C:\Users\surya\.gradle\caches\8.9\transforms\c3b7d437f067a5e4855c678f19c596f9\transformed\core-runtime-2.2.0\res
+com.example.realestateapp-play-services-auth-20.7.0-45 C:\Users\surya\.gradle\caches\8.9\transforms\c7d26c776c2a6f4059ff00a29977a013\transformed\play-services-auth-20.7.0\res
+com.example.realestateapp-lifecycle-livedata-core-ktx-2.6.2-46 C:\Users\surya\.gradle\caches\8.9\transforms\c84371b707547fb30ffb39b024dc9618\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.realestateapp-fragment-1.6.2-47 C:\Users\surya\.gradle\caches\8.9\transforms\cac74f8bf9dff463d9cbd34c8af3668e\transformed\fragment-1.6.2\res
+com.example.realestateapp-lifecycle-runtime-ktx-2.6.2-48 C:\Users\surya\.gradle\caches\8.9\transforms\d2fff6a9f14cd63bc2849735e9fe2ccf\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.realestateapp-core-common-2.0.3-49 C:\Users\surya\.gradle\caches\8.9\transforms\d5348bf00eb439205b1a397a3a7dcc8e\transformed\core-common-2.0.3\res
+com.example.realestateapp-navigation-ui-2.8.3-50 C:\Users\surya\.gradle\caches\8.9\transforms\d621bd4e81963af14b12dc06019a1010\transformed\navigation-ui-2.8.3\res
+com.example.realestateapp-lifecycle-livedata-2.6.2-51 C:\Users\surya\.gradle\caches\8.9\transforms\dfcd61c542d2c2df624df6a5c59b8759\transformed\lifecycle-livedata-2.6.2\res
+com.example.realestateapp-core-ktx-1.15.0-52 C:\Users\surya\.gradle\caches\8.9\transforms\dfcd77ed32ded96d0a6b8cd6e370a98f\transformed\core-ktx-1.15.0\res
+com.example.realestateapp-annotation-experimental-1.4.1-53 C:\Users\surya\.gradle\caches\8.9\transforms\e2323e5aa87e9cc1146eb99472cd175e\transformed\annotation-experimental-1.4.1\res
+com.example.realestateapp-slidingpanelayout-1.2.0-54 C:\Users\surya\.gradle\caches\8.9\transforms\e78fbf8120919c7b785f5d5b0a9cf50e\transformed\slidingpanelayout-1.2.0\res
+com.example.realestateapp-emoji2-1.3.0-55 C:\Users\surya\.gradle\caches\8.9\transforms\f017556ee93875574770e290f5ae8e9d\transformed\emoji2-1.3.0\res
+com.example.realestateapp-credentials-play-services-auth-1.2.0-rc01-56 C:\Users\surya\.gradle\caches\8.9\transforms\f6b3a6ab0f7795c57cef3ae2b9a17030\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.realestateapp-browser-1.4.0-57 C:\Users\surya\.gradle\caches\8.9\transforms\f77cbb09115dc7d362531dabfe247a68\transformed\browser-1.4.0\res
+com.example.realestateapp-viewpager2-1.0.0-58 C:\Users\surya\.gradle\caches\8.9\transforms\f876dfac182135285ab6d221095d4b85\transformed\viewpager2-1.0.0\res
